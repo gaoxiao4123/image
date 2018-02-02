@@ -22,6 +22,7 @@ log = logging.getLogger("operation")
 
 def main():
     try:
+        #测试
         hive_client = HiveClient()
 
         date = ""
